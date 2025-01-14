@@ -1,7 +1,11 @@
-- name: Adobe Photoshop
-  percentage: 95
+- name: Javascript
+  percentage: 40
   color: info
 
-- name: Adobe Illustrator
-  percentage: 90
+- name: Yaml
+  percentage: 30
   color: success
+  
+- name: Kubernetes
+  percentage: 20
+  color: primary

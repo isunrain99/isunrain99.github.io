@@ -18,6 +18,19 @@ weight: 3
 {% include about/skills.html title="Other Skills" source=site.data.other-skills %}
 </div>
 
+
+
+## *Certifications*
+
+> **{% include elements/highlight.html text="정보처리기사" %}**
+
+2022.11
+
+
+
+
+## *Timeline*
+
 <div class="row">
 {% include about/timeline.html %}
 </div>

@@ -103,7 +103,5 @@ exclude:
   - CONTRIBUTING.md
   - LICENSE
   - "*.log"
-
----
-external_url: https://google.com/
----
+  - assets/css/*.scss
+  
