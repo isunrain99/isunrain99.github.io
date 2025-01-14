@@ -1,0 +1,11 @@
+- name: Layer 2 with Cisco
+  percentage: 90
+  color: danger
+
+- name: Layer 3
+  percentage: 60
+  color:
+
+- name: Linux
+  percentage: 50
+  color: secondary

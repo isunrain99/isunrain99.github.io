@@ -1,0 +1,23 @@
+---
+layout: page
+title: About
+permalink: /about/
+weight: 3
+---
+
+# **About Me**
+
+안녕하세요, 저는 네트워크 엔지니어 **이선우** 입니다 :wave:,<br>
+
+
+
+
+
+<div class="row">
+{% include about/skills.html title="Engineering Skills" source=site.data.programming-skills %}
+{% include about/skills.html title="Other Skills" source=site.data.other-skills %}
+</div>
+
+<div class="row">
+{% include about/timeline.html %}
+</div>
