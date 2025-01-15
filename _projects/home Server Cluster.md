@@ -1,8 +1,12 @@
 ---
-name: Home Server Cluster
-tools: [Kubernetes, Linux]
+name: Vagrant로 구성하는 Kubernetes 환경
+tools: [Kubernetes, Vagrant, Linux]
 image:
-description: 5대의 라즈베리파이를 쿠버네티스 클러스터 구성하는 프로젝트입니다.
+description: Vagrant로 쿠버네티스 환경 구성하는 프로젝트입니다.
+external_url: 
 ---
+
+
+
 
 # 개요
